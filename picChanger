@@ -1,0 +1,8 @@
+<html>
+    <body>
+        <p>In this case JavaScript changes the value of the src (source) attribute of an image</p>
+        <button onclick="document.getElementById('myImage').src='https://i.pinimg.com/736x/99/bc/a6/99bca6595548053754c348fa547a54d4.jpg'">open u r eyes</button>
+        <img id="myImage" src="https://i.pinimg.com/736x/99/bc/a6/99bca6595548053754c348fa547a54d4.jpg" style="width:100px">
+        <button onclick="document.getElementById('myImage').src='https://i.pinimg.com/474x/0a/ac/29/0aac29ebb9f6ccb99a510f04f9c1e0b7--that-smile-ps.jpg'">Aw cute</button>
+    </body>
+</html>
