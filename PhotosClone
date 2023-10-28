@@ -5,7 +5,7 @@
         <style>
             img.imgs{
                 border-radius: 50%;
-                width: 30px;;
+                width: 30px;
                 height: auto;
             }
 
